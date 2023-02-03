@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1675171495 source:c:\users\eyasb\desktop\app2\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"test.h"
+
+1675171266 source:c:\users\eyasb\desktop\app2\test\test.c
+	<stdlib.h>
+	<stdio.h>
+	"test.h"
+
+1675168977 c:\users\eyasb\desktop\app2\test\test.h
+
